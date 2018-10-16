@@ -1,0 +1,4 @@
+[19-Jan-2014 10:01:56 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/burakal1/public_html/wp-content/themes/burakalhascomtr/index.php on line 1
+[23-Jan-2014 12:06:45 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/burakal1/public_html/wp-content/themes/burakalhascomtr/index.php on line 1
+[01-Mar-2014 18:17:13 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/burakal1/public_html/wp-content/themes/minnimallize/index.php on line 1
+[04-Mar-2014 18:24:27 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/burakal1/public_html/wp-content/themes/minnimallize/index.php on line 1
